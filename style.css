@@ -1,0 +1,28 @@
+.button {
+  padding: 14px 14px;
+  color: white;
+  border-style: none;
+  border-radius: 6px;
+  cursor: pointer;
+  display: inline-block;
+  text-decoration: none;
+}
+.enter{
+  background: rgb(37, 196, 5);
+}
+.enter:hover {
+  background: rgba(17, 71, 53, 0.89);
+}
+.sunnyday {
+  background: rgba(192, 22, 22, 0.945);
+}
+.sunnyday:hover {
+  background: rgba(238, 5, 5, 0.945);
+} 
+a{
+  background: rgba(90, 168, 233, 0.945);
+}
+a:hover{
+  background: rgba(23, 9, 224, 0.945);  
+}
+ 
