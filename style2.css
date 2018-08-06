@@ -1,0 +1,100 @@
+/* .right {
+    float: right;
+    display: inline-block;
+}
+.left{
+    display: inline-block;
+    vertical-align: baseline;
+}
+.button{
+    font-size: 15px;
+    font-weight: 400;
+    display: inline-block;
+    cursor: pointer;
+    text-decoration: none;
+    padding: 12px 15px;
+    background: white;
+    vertical-align: middle;
+    color: #000;
+}
+.container{
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+.button hover{
+
+} */
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+.right {
+  float: right;
+}
+.left {
+  display: inline-block;
+}
+.logo{
+  width: 134px;
+  vertical-align: middle;
+}
+.container{
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  background: white;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+/*a{
+  display: inline-block;
+  line-height: 60px;
+  height: 60px;
+}*/
+.logo-wraper{
+  display: inline-block;
+}
+.button{
+  display: inline-block;
+  line-height: 60px;
+  height: 60px;
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 400;
+  color: #666;
+ padding: 0 15px;
+}
+.button:hover{
+  background: rgba(128, 128, 128, 0.2);
+}
+.donate{
+color: rgb(243, 80, 96)
+}
+.dropdownlist{
+width: 300px;
+position: fixed;
+top: 60px;
+right: 0px;
+border-style: solid;
+}
+.userboard{
+  width: 280px;
+  height: 118px;
+  padding: 10px 10px;
+}
+.button1{
+  display: inline-block;
+  width: 300px;
+  height: 42px;
+  padding: 10px 0;
+  font-size: 15px;
+  font-weight: 400;
+  color: #666;
+  text-decoration: none;
+  vertical-align: middle;
+}
+.button1:hover{
+  background: rgba(128, 128, 128, 0.2);
+}
+.userlogo{
+  width: 84.09px;
+}
